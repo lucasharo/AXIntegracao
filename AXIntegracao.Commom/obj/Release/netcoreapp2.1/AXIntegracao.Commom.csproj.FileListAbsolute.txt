@@ -1,0 +1,9 @@
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Commom\bin\Release\netcoreapp2.1\AXIntegracao.Commom.deps.json
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Commom\bin\Release\netcoreapp2.1\AXIntegracao.Commom.dll
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Commom\bin\Release\netcoreapp2.1\AXIntegracao.Commom.pdb
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Commom\obj\Release\netcoreapp2.1\AXIntegracao.Commom.csprojAssemblyReference.cache
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Commom\obj\Release\netcoreapp2.1\AXIntegracao.Commom.csproj.CoreCompileInputs.cache
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Commom\obj\Release\netcoreapp2.1\AXIntegracao.Commom.AssemblyInfoInputs.cache
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Commom\obj\Release\netcoreapp2.1\AXIntegracao.Commom.AssemblyInfo.cs
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Commom\obj\Release\netcoreapp2.1\AXIntegracao.Commom.dll
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Commom\obj\Release\netcoreapp2.1\AXIntegracao.Commom.pdb

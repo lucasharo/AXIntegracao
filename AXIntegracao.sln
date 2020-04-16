@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AXIntegracao.Data", "AXIntegracao.Data\AXIntegracao.Data.csproj", "{28361E86-231D-4BE9-91D4-56C39F3A900E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AXIntegracao.Business", "AXIntegracao.Business\AXIntegracao.Business.csproj", "{661967BA-1902-4E2A-AF9C-205183FCFACD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AXIntegracao.Commom", "AXIntegracao.Commom\AXIntegracao.Commom.csproj", "{35834623-DB83-4697-A290-BF998871C3EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AXIntegracao.Imagem", "AXIntegracao.Imagem\AXIntegracao.Imagem.csproj", "{68056E4F-B9E9-4F04-95AC-AA641FA2B2ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AXIntegracao.Pareceres", "AXIntegracao.Pareceres\AXIntegracao.Pareceres.csproj", "{02B40877-8C73-44C4-8077-DFE0DC27BF99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AXIntegracao.Fornecimento", "AXIntegracao.Fornecimento\AXIntegracao.Fornecimento.csproj", "{3FA9652B-1EE4-4661-A1C0-1CE785E91F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28361E86-231D-4BE9-91D4-56C39F3A900E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28361E86-231D-4BE9-91D4-56C39F3A900E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28361E86-231D-4BE9-91D4-56C39F3A900E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28361E86-231D-4BE9-91D4-56C39F3A900E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661967BA-1902-4E2A-AF9C-205183FCFACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661967BA-1902-4E2A-AF9C-205183FCFACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661967BA-1902-4E2A-AF9C-205183FCFACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661967BA-1902-4E2A-AF9C-205183FCFACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35834623-DB83-4697-A290-BF998871C3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35834623-DB83-4697-A290-BF998871C3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35834623-DB83-4697-A290-BF998871C3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35834623-DB83-4697-A290-BF998871C3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68056E4F-B9E9-4F04-95AC-AA641FA2B2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68056E4F-B9E9-4F04-95AC-AA641FA2B2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68056E4F-B9E9-4F04-95AC-AA641FA2B2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68056E4F-B9E9-4F04-95AC-AA641FA2B2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B40877-8C73-44C4-8077-DFE0DC27BF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B40877-8C73-44C4-8077-DFE0DC27BF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B40877-8C73-44C4-8077-DFE0DC27BF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B40877-8C73-44C4-8077-DFE0DC27BF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA9652B-1EE4-4661-A1C0-1CE785E91F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA9652B-1EE4-4661-A1C0-1CE785E91F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA9652B-1EE4-4661-A1C0-1CE785E91F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA9652B-1EE4-4661-A1C0-1CE785E91F38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B81BCBB-B776-4A59-AB3B-A27102AEC49F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://axbrtfs:8080/tfs/axbf
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AXIntegracao.Business\\AXIntegracao.Business.csproj
+		SccProjectName1 = AXIntegracao.Business
+		SccLocalPath1 = AXIntegracao.Business
+		SccProjectUniqueName2 = AXIntegracao.Commom\\AXIntegracao.Commom.csproj
+		SccProjectName2 = AXIntegracao.Commom
+		SccLocalPath2 = AXIntegracao.Commom
+		SccProjectUniqueName3 = AXIntegracao.Data\\AXIntegracao.Data.csproj
+		SccProjectName3 = AXIntegracao.Data
+		SccLocalPath3 = AXIntegracao.Data
+		SccProjectUniqueName4 = AXIntegracao.Imagem\\AXIntegracao.Imagem.csproj
+		SccProjectName4 = AXIntegracao.Imagem
+		SccLocalPath4 = AXIntegracao.Imagem
+		SccProjectUniqueName5 = AXIntegracao.Pareceres\\AXIntegracao.Pareceres.csproj
+		SccProjectName5 = AXIntegracao.Pareceres
+		SccLocalPath5 = AXIntegracao.Pareceres
+		SccProjectUniqueName6 = AXIntegracao.Fornecimento\\AXIntegracao.Fornecimento.csproj
+		SccProjectName6 = AXIntegracao.Fornecimento
+		SccLocalPath6 = AXIntegracao.Fornecimento
+	EndGlobalSection
+EndGlobal

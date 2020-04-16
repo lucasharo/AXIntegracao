@@ -1,0 +1,12 @@
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\bin\Debug\netcoreapp2.1\AXIntegracao.Data.deps.json
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\bin\Debug\netcoreapp2.1\AXIntegracao.Data.dll
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\bin\Debug\netcoreapp2.1\AXIntegracao.Data.pdb
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\bin\Debug\netcoreapp2.1\AXIntegracao.Commom.dll
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\bin\Debug\netcoreapp2.1\AXIntegracao.Commom.pdb
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\obj\Debug\netcoreapp2.1\AXIntegracao.Data.csprojAssemblyReference.cache
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\obj\Debug\netcoreapp2.1\AXIntegracao.Data.csproj.CoreCompileInputs.cache
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\obj\Debug\netcoreapp2.1\AXIntegracao.Data.AssemblyInfoInputs.cache
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\obj\Debug\netcoreapp2.1\AXIntegracao.Data.AssemblyInfo.cs
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\obj\Debug\netcoreapp2.1\AXIntegracao.Data.csproj.CopyComplete
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\obj\Debug\netcoreapp2.1\AXIntegracao.Data.dll
+C:\Workspace\NovaCentralFornecimentoAX\src\ServicosIntegracao\AXIntegracao\AXIntegracao.Data\obj\Debug\netcoreapp2.1\AXIntegracao.Data.pdb
